@@ -10,8 +10,8 @@
 ## 📦 Repositories
 
 ### Core Platform
-- **[frontend](https://github.com/vexiun/frontend)** - Next.js 15 web application
-- **[backend](https://github.com/vexiun/backend)** - NestJS REST API + WebSockets
+- **[frontend](https://github.com/vexiun/frontend)** - Next.js 16 web application
+- **[backend](https://github.com/vexiun/backend)** - NestJS REST API
 
 ### Coming Soon
 - **mobile** - React Native mobile app
@@ -26,9 +26,9 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js 15, React 19, Tailwind CSS, Shadcn/ui  
+**Frontend:** Next.js 16, React 19, Tailwind CSS, Shadcn/ui  
 **Backend:** NestJS, Prisma, PostgreSQL, Socket.io  
-**Infrastructure:** Vercel, Railway, Neon
+**Infrastructure:** Vercel, Railway
 
 ## 📄 License
 
