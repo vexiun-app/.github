@@ -6,12 +6,12 @@
 [![API](https://img.shields.io/badge/API-v1.0-success)](https://api.vexiun.com)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Beta-yellow)](https://vexiun.com)
+[![@vexiun_](https://img.shields.io/twitter/follow/vexiun.svg?label=Follow%20@vexiun)](https://x.com/vexiun_)
 
 ## 📦 Repositories
 
 ### Core Platform
-- **[frontend](https://github.com/vexiun/frontend)** - Next.js 16 web application
-- **[backend](https://github.com/vexiun/backend)** - NestJS REST API
+- **[vexiun](https://github.com/vexiun-app/vexiun)** - Next.js 16 web application - NestJS REST API
 
 ### Coming Soon
 - **mobile** - React Native mobile app
@@ -32,4 +32,4 @@
 
 ## 📄 License
 
-Copyright © 2025 Vexiun. All rights reserved.
+Copyright © 2026 Vexiun. All rights reserved.
